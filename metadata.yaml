@@ -1,0 +1,32 @@
+_repo: On-the-Origin-of-Clockwork-Perpetual-Motion-Devices-and-the-Compass_30001
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 30001-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Price, Derek J. de Solla (Derek John de Solla)
+    alias: Price, Derek John de Solla
+    birthdate: 1922
+    deathdate: 1983
+    gutenberg_agent_id: '34299'
+    url: http://www.gutenberg.org/2009/agents/34299
+description: ''
+gutenberg_bookshelf:
+- Technology
+- Manufacturing
+gutenberg_issued: '2009-09-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30001'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Horology'
+- !lcc 'Q'
+- !lcsh 'Clocks and watches'
+- !lcc 'TS'
+title: On the Origin of Clockwork, Perpetual Motion Devices, and the Compass
+url: http://www.gutenberg.org/ebooks/30001
